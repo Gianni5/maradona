@@ -4,4 +4,4 @@ This tutorial is the start of learning GIT for version control.
 
 ## About 
 
-This repo is managed by **Giovanni Costa**.
+This repo is managed by **Giovanni Costa**."Ghoest"
